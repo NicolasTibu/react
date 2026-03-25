@@ -7,4 +7,3 @@ Estructura obligatoria:
 - `src/`
 - `docs/`
 - `package.json`
-
