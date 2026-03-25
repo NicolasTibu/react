@@ -1,9 +1,0 @@
-{
-  "name": "react",
-  "version": "0.1.0",
-  "private": true,
-  "scripts": {
-    "dev": "echo \"Configure tu entorno React (Vite/CRA) y luego usa: npm run dev\"",
-    "build": "echo \"Configure tu entorno React (Vite/CRA) y luego usa: npm run build\""
-  }
-}
